@@ -5,8 +5,8 @@
     <description>Evidence and insights from the Canada.ca team.</description>
     <link>https://blog.canada.ca/</link>
     <atom:link href="https://blog.canada.ca/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Aug 2026 19:33:15 +0000</pubDate>
-    <lastBuildDate>Wed, 19 Aug 2026 19:33:15 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 19:39:00 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:39:00 +0000</lastBuildDate>
     <generator>Jekyll v4.3.4</generator><item>
         <title>Designing AI help applications for Canada.ca</title>
         <description>Over the past year, we’ve worked closely with 18 government departments to better understand what makes an AI help application reliable, consistent, and useful for people using Canada.ca.</description>
